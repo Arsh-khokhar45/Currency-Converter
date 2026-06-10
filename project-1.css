@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: inherit;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4e4ba;
+}
+
+.container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 2rem;
+    min-height: 45vh;
+    border: none;
+    box-shadow: 2rem;
+    width: 400px;
+}
+
+.from {
+    margin: 2rem 0rem 2rem 0rem;
+}
+
+
+
+form,
+select,
+button,
+input {
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 0.5rem;
+}
+
+input {
+    border: 1.5px solid lightgray;
+    font-size: 1.3rem;
+    font-weight: medium;
+    height: 3rem;
+    padding-left: 0.75rem;
+    margin-top: 0.8rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.amount {
+    margin-top: 2.5rem;
+}
+
+.amount-holder {
+    display: inline;
+    margin-right: 10px;
+    padding-left: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: initial;
+}
+
+.dropdown {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+i {
+    margin-top: 2rem;
+    font-size: 19.5px;
+}
+
+.select-box img {
+    max-width: 2rem;
+    display: inline;
+    /* border: 2px solid black; */
+    border-radius: 43%;
+    margin-left: 0.2rem;
+}
+
+.select-box {
+    display: flex;
+    width: 6.5rem;
+    justify-content: center;
+    align-items: center;
+    height: 2.3rem;
+    border-radius: 0.5rem;
+    border: 1.5px solid lightgray;
+}
+
+.from-to {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+
+.select-box select {
+    font-size: 1.1rem;
+    font-style: normal;
+    font-variant: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.newMsg {
+    margin: 0rem 0rem 2rem 0rem;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: white;
+    border-radius: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 40px;
+    background-color: gray;
+    animation: msgZoom 2s forwards;
+}
+
+@keyframes msgZoom {
+
+    0% {
+        transform: scale(0.6);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.Eclick {
+    height: 3rem;
+    background-color: lightcoral;
+    color: white;
+    font-size: 1.35rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: initial;
+}
+
+.Eclick:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
