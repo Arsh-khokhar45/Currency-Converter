@@ -2,7 +2,7 @@
 
 A clean and simple **Currency Converter** web application that lets you instantly convert between world currencies using live exchange rates.
 
-![Currency Converter Preview](./![Not found](<https://www.behance.net/gallery/56500611/Currency-Converter/modules/332895363>))
+![Currency Converter Preview](./![Not found](<![not found](<../../../../Pictures/Screenshots/Screenshot 2026-06-10 014227.png>)>))
 
 ---
 
