@@ -89,6 +89,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
----
+## Autour 👨‍💻 Made with ❤️ by [Arsh khokhar]
 
-> Made with ❤️ using HTML, CSS & JavaScript
+Made with ❤️ by [Arsh khokhar]
+ - Github:https://github.com/Arsh-khokhar45
+ - Linkedin:https://www.linkedin.com/in/arsh-khokhar-792242398/
+
