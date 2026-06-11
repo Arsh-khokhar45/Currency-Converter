@@ -43,8 +43,7 @@ currency-converter/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
-   cd currency-converter
+   git clone https://github.com/Arsh-khokhar45
    ```
 
 2. **Open in browser**
